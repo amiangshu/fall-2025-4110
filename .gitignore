@@ -1,0 +1,4 @@
+*.exe
+*.class
+test.bin
+build/

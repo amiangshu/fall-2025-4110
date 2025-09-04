@@ -1,4 +1,4 @@
-/*****
+/****
     Author: Amiangshu Bosu
     Date: September 2nd
     */
@@ -34,4 +34,3 @@ public class MacAddressPrinter {
         }
     }
 }
-
